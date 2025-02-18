@@ -1,0 +1,53 @@
+li{
+    list-style: none;
+}
+a{
+    text-decoration: unset;
+    color:black
+    
+}
+h1{
+    color:#a62510;
+}
+#b{
+    color:red
+
+}
+#b{
+    background-color: black;
+}
+#b{
+    color:red;
+}
+h3{
+    color:#a62510;
+}
+#a{
+    color:red;
+    }
+    #a{
+        background-color: black;
+    }
+    #c{
+        color:black;
+    }
+    #c{
+        background-color:green
+    }
+    p{
+        color:red;
+        
+    }
+    #d{
+        color: #a62510;
+    }
+    #d{
+        background-color:black;
+    }
+    form{
+        background-color:cadetblue;
+    }
+    
+    
+        
+    
